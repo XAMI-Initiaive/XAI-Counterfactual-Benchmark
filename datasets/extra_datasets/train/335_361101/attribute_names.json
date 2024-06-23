@@ -1,0 +1,1 @@
+["VendorID", "store_and_fwd_flag", "RatecodeID", "passenger_count", "extra", "mta_tax", "tolls_amount", "improvement_surcharge", "total_amount", "trip_type", "lpep_pickup_datetime_day", "lpep_pickup_datetime_hour", "lpep_pickup_datetime_minute", "lpep_dropoff_datetime_day", "lpep_dropoff_datetime_hour", "lpep_dropoff_datetime_minute"]

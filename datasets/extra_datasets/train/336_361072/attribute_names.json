@@ -1,0 +1,1 @@
+["lread", "lwrite", "scall", "sread", "swrite", "fork", "exec", "rchar", "wchar", "pgout", "ppgout", "pgfree", "pgscan", "atch", "pgin", "ppgin", "pflt", "vflt", "runqsz", "freemem", "freeswap"]
